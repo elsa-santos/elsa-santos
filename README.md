@@ -8,9 +8,12 @@
 
 📍 From São Miguel, Azores living in Lisbon 🇵🇹
 
-💻 I has been working as a Front-End developer since 2013
+👩‍💻 I has been working as a Front-End developer since 2013
 
-🚀 Currently i'm Front-End engineer at [MIllennium BCP](https://ind.millenniumbcp.pt/pt/Particulares/Pages/Welcome.aspx)
+🚀 I'm currently working at [MIllennium BCP](https://ind.millenniumbcp.pt/pt/Particulares/Pages/Welcome.aspx)
 
-❤️ I'm passionate in solving problems focused on user and developer solutions based on user requirements. I'm dedicated to pixel-perfect design with an open eye to detail
+❤️ I'm curious and committed person and i'm always willing to learn new technologies and methods to improve my results. I'm passionate in solving problems focused on user requirements. I'm dedicated to pixel-perfect design with an open eye to detail.
+
+
+
 
