@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 👩🏼‍  My name is Elsa Santos
+- 👩🏼‍  My name is Elsy Santos
 
 - 📍  From São Miguel, Azores living in Lisbon 🇵🇹
 
