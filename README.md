@@ -4,9 +4,7 @@
 
 - 📍  From São Miguel, Azores living in Lisbon 🇵🇹
 
-- 👩‍💻  I has been working as a Frontend developer since 2013
-
-- 🚀  I'm currently working at [Millennium BCP](https://ind.millenniumbcp.pt/pt/Particulares/Pages/Welcome.aspx)
+- 🚀  I'm currently working at [Anchorage Digital](https://www.anchorage.com/) as a Frontend Engineer
 
 - ❤️  I'm curious and committed person and i'm always willing to learn new technologies and methods to improve my results. I'm passionate in solving problems focused on user requirements. I'm dedicated to pixel-perfect design with an open eye to detail.
 
